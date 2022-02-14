@@ -4,6 +4,7 @@
 [![Maven Central](https://img.shields.io/maven-central/v/com.alibaba.cloud/spring-cloud-alibaba-dependencies.svg?label=Maven%20Central)](https://search.maven.org/search?q=g:com.alibaba.cloud%20AND%20a:spring-cloud-alibaba-dependencies)
 [![Codecov](https://codecov.io/gh/alibaba/spring-cloud-alibaba/branch/master/graph/badge.svg)](https://codecov.io/gh/alibaba/spring-cloud-alibaba)
 [![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffcitwip%2Fspring-cloud-alibaba.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffcitwip%2Fspring-cloud-alibaba?ref=badge_shield)
 
 A project maintained by Alibaba.
 
@@ -144,3 +145,7 @@ When writing a commit message please follow these conventions, if you are fixing
 Mailing list is recommended for discussing almost anything related to spring-cloud-alibaba. 
 
 spring-cloud-alibaba@googlegroups.com:You can ask questions here if you encounter any problem when using or developing spring-cloud-alibaba.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ffcitwip%2Fspring-cloud-alibaba.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ffcitwip%2Fspring-cloud-alibaba?ref=badge_large)
